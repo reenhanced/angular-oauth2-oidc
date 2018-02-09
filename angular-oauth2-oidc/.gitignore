@@ -28,5 +28,5 @@ Desktop.ini
 # Ngc generated files
 **/*.ngfactory.ts
 
-# Build files
-dist/*
+# Build files -- disabled in 'dev' branch
+#dist/*
